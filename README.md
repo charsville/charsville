@@ -8,7 +8,7 @@ My name is Reece Charsville and I am a senior full-stack developer.
 ### :mount_fuji: The journey so far...<br />
 :round_pushpin: I studied Software Engineering at Sheffield Hallam University.<br />
 :round_pushpin: I worked as a freelancer for 2+ years.<br />
-:round_pushpin: I founded [Forward Digital](https://forwardigital.co.uk) in 2020.<br />
+:round_pushpin: I founded [Forward Digital](https://forward.digital) in 2020.<br />
 
 <br />
 
@@ -25,7 +25,7 @@ My name is Reece Charsville and I am a senior full-stack developer.
 You can find me in lots of places!<br />
 
 **My personal portfolio** [www.reececharsville.com](https://reececharsville.com)<br />
-**My company** [www.forwardigital.co.uk](https://www.forwardigital.co.uk)<br />
+**My company** [www.forward.digital](https://forward.digital)<br />
 Or you can [email me](mailto:reece@reececharsville.com)<br />
 
 <br />
